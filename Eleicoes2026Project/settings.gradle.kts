@@ -1,0 +1,1 @@
+rootProject.name = "Eleicoes2026Project"
